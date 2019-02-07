@@ -1,11 +1,11 @@
-a=int(input())
-b=int(input())
-c=int(input())
-if(a>b and a>c):
+d=int(input())
+e=int(input())
+f=int(input())
+if(d>e and d>f):
   print(a)
-elif(b>a and b>c):
+elif(e>d and e>f):
   print(b)
-elif(c>a and c>b):
-  print(c)
+elif(f>d and f>e):
+  print(f)
 else:
   print("Invalid")
