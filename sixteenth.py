@@ -11,3 +11,4 @@ for num in range(n,q):
       temp=temp//10
       if sum==num:
            print (num)
+#jasir
